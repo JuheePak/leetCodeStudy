@@ -4,7 +4,7 @@
 
 #### SQL
 
-- [1148. Article Views I](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/1148._Article_Views I.sql)
+- [1148. Article Views_I](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/1148._Article_Views_I.sql)
 - [1581. Customer Who Visited but Did Not Make Any Transaction](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/1581._Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql)
 - [175. Combine Two Tables](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/175._Combine_Two_Tables.sql)
 - [1757. Recyclable and Low Fat Products](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/1757._Recyclable_and_Low_Fat_Products.sql)
