@@ -20,12 +20,10 @@
 - [607. Sales Person](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/607._Sales_Person.sql)
 - [608. Tree Node](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/608._Tree_Node.sql)
 - [627. Swap Salary](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/627._Swap_Salary.sql)
-
-
-
-
-
-
+- [1141._User_Activity_for_the_Past_30_Days_I](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/1141._User_Activity_for_the_Past_30_Days_I.sql)
+- [1693._Daily_Leads_and_Partners](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/1693._Daily_Leads_and_Partners.sql)
+- [1729._Find_Followers_Count](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/1729._Find_Followers_Count.sql)
+- 
 
 
 
@@ -39,5 +37,7 @@
 - [35. Search Insert Position](https://github.com/JuheePak/leetCodeStudy/blob/master/algorithm/35._Search_Insert_Position.py)
 - [704. Binary Search](https://github.com/JuheePak/leetCodeStudy/blob/master/algorithm/704._Binary_Search.py)
 - [977. Squares of a Sorted Array](https://github.com/JuheePak/leetCodeStudy/blob/master/algorithm/977._Squares_of_a_Sorted_Array.py)
+- [557._Reverse_Words_in_a_String_III](https://github.com/JuheePak/leetCodeStudy/blob/master/algorithm/557._Reverse_Words_in_a_String_III.py)
+- [876._Middle_of_the_Linked_List](https://github.com/JuheePak/leetCodeStudy/blob/master/algorithm/876._Middle_of_the_Linked_List.py)
 - 
 
