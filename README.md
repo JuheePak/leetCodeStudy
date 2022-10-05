@@ -23,7 +23,9 @@
 - [1141._User_Activity_for_the_Past_30_Days_I](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/1141._User_Activity_for_the_Past_30_Days_I.sql)
 - [1693._Daily_Leads_and_Partners](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/1693._Daily_Leads_and_Partners.sql)
 - [1729._Find_Followers_Count](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/1729._Find_Followers_Count.sql)
-- 
+- [1741._Find_Total_Time_Spent_by_Each_Employee](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/1741._Find_Total_Time_Spent_by_Each_Employee.sql)
+- [1890._The_Latest_Login_in_2020](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/1890._The_Latest_Login_in_2020.sql)
+- [511._Game_Play_Analysis_I](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/511._Game_Play_Analysis_I.sql)
 
 
 
