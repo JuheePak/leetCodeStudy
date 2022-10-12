@@ -26,6 +26,10 @@
 - [1741._Find_Total_Time_Spent_by_Each_Employee](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/1741._Find_Total_Time_Spent_by_Each_Employee.sql)
 - [1890._The_Latest_Login_in_2020](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/1890._The_Latest_Login_in_2020.sql)
 - [511._Game_Play_Analysis_I](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/511._Game_Play_Analysis_I.sql)
+- [1158._Market_Analysis_I.sql](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/1158._Market_Analysis_I.sql)
+- [1393._Capital_Gain_Loss.sql](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/1393._Capital_Gain_Loss.sql)
+- [1407._Top_Travellers.sql](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/1407._Top_Travellers.sql)
+- 
 
 
 
