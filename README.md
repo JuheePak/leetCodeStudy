@@ -29,7 +29,10 @@
 - [1158._Market_Analysis_I.sql](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/1158._Market_Analysis_I.sql)
 - [1393._Capital_Gain_Loss.sql](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/1393._Capital_Gain_Loss.sql)
 - [1407._Top_Travellers.sql](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/1407._Top_Travellers.sql)
-- 
+- [1050._Actors_and_Directors_Who_Cooperated_At_Least_Three_Times](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/1050._Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql)
+- [1084._Sales_Analysis_III](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/1084._Sales_Analysis_III.sql)
+- [1587._Bank_Account_Summary_II](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/1587._Bank_Account_Summary_II.sql)
+- [182._Duplicate_Emails](https://github.com/JuheePak/leetCodeStudy/blob/master/sql/182._Duplicate_Emails.sql)
 
 
 
